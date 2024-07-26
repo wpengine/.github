@@ -1,4 +1,4 @@
-# The most trusted WordPress hosting platform
+# WP Engine, a leading WordPress platform and solutions company
 
 <a href="https://wpeng.in/about/" rel="nofollow"><img width="848" alt="" src="https://github.com/user-attachments/assets/bfd4d30c-c2f7-42d2-b523-d20da5a3d006" style="max-width: 100%;"></a>
 
